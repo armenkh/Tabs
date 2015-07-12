@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="/*************************************************************************&#10; * &#10; * LUSEEN GROUP CONFIDENTIAL&#10; * ______________________________________________________________________&#10; * &#10; * Copyright (C) 2010-2011 Luseen Group &lt;info@luseen.com&gt;&#10; * &#10; *  All Rights Reserved.&#10; * &#10; * NOTICE:  All information contained herein is, and remains the &#10; * property of Luseen Group. The intellectual and technical concepts&#10; * contained herein are proprietary to Luseen Group and may be covered&#10; * by U.K., U.S. and Foreign Patents, patents in process, and are &#10; * protected by trade secret or copyright law. Dissemination of this &#10; * information or reproduction of this material is strictly forbidden &#10; * unless prior written permission is obtained from Luseen Group.&#10; * &#10; */" />
+    <option name="keyword" value="Copyright" />
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="Luseen" />
+    <option name="myLocal" value="true" />
+  </copyright>
+</component>
